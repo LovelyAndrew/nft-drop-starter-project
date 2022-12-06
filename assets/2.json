@@ -1,0 +1,24 @@
+{
+  "name": "Special Mikey #2",
+  "symbol": "SPMK",
+  "description": "Special Mikey is PlayDapp crew identification",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "French Fries"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "No Accessories"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

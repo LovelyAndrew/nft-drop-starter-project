@@ -1,0 +1,24 @@
+{
+  "name": "Special Mikey #0",
+  "symbol": "SPMK",
+  "description": "Special Mikey is PlayDapp crew identification",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Night City"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Sport Car"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

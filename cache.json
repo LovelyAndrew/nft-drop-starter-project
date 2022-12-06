@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "6BQY47a2YPDGipFLbCZ9S6kk9YhiaNFvRo18hL4ZZsBY",
+    "candyMachineCreator": "9krFMFU19oBET2eKUWfi4vEBGjJzEug2vtwnbfvqB58N",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Special Mikey #0",
+      "image_hash": "ac446f7a4190b0f894662530ca8c0787c02765343ebeded6690c90f0a6d87a38",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiggvhnqu743saimsaesgqml5welouqp5aj45yyzmuvsxyltdhdjim/0.png",
+      "metadata_hash": "365f9a7acec962e24583dd2dee7a56509e6b01d6db86958dab9a5250dcfdad2a",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifeob7oaapo5wc2obhjvr7rqmgascfjzlfjzykao3zibf7i274aye/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Special Mikey #1",
+      "image_hash": "112c7dd1123658b2dc76a62975df64144fe6b452bc179708486d85196b958822",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiggvhnqu743saimsaesgqml5welouqp5aj45yyzmuvsxyltdhdjim/1.png",
+      "metadata_hash": "d386e515284765dbf02a347054e41e928d8a27adc78632b8cd1b17cb1092d49e",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifeob7oaapo5wc2obhjvr7rqmgascfjzlfjzykao3zibf7i274aye/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Special Mikey #2",
+      "image_hash": "a9d68d5d6f44ad32e089b6a12defa2d568f38b7528efe6a6039215a30b453529",
+      "image_link": "https://nftstorage.link/ipfs/bafybeiggvhnqu743saimsaesgqml5welouqp5aj45yyzmuvsxyltdhdjim/2.png",
+      "metadata_hash": "e13b95e6cae0bc8b7e77553ad9fd17ba6177ad7bd6364db9d102d387e87b0e3d",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeifeob7oaapo5wc2obhjvr7rqmgascfjzlfjzykao3zibf7i274aye/2.json",
+      "onChain": true
+    }
+  }
+}
